@@ -124,7 +124,7 @@ PHP 5.6 and later
   - some limited expressions are possible
   - provided they can be evaluated at compile time
 
-*Note*
+*Note*  
 As of PHP 5.3.0:
 - possible to reference the class using a variable
 - the variable's value cannot be a keyword (e.g. *self*, *parent*, and *static)
