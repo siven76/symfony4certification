@@ -3,7 +3,7 @@ These are my notes for Symfony 4 Certification. The notes are based on the refer
 
 ## PHP and Web Security
 - PHP API up to PHP 7.2 version
-- [Object Oriented Programming](php_and_web_security/object_oriented_programming/01_the_basics.md)
+- [Object Oriented Programming](php_and_web_security/object_oriented_programming/)
 - Namespaces
 - Interfaces
 - Anonymous functions and closures
