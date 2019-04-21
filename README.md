@@ -1,5 +1,5 @@
 # Symfony 4 Certification
-Notes for Symfony 4 Certification
+These are my notes for Symfony 4 Certification. The notes are based on the references given by the SensioLabs University.
 
 ## PHP and Web Security
 - PHP API up to PHP 7.2 version
