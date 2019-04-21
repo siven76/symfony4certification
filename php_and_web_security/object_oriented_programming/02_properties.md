@@ -115,10 +115,6 @@ $classname::aStaticMethod(); // As of PHP 5.3.0
 ## Static properties
 - cannot be accessed through the object using the arrow operator (->)
 
-As of PHP 5.3.0:
-- possible to reference the class using a variable
-- the variable's value cannot be a keyword (e.g. *self*, *parent*, and *static)
-
 Before PHP 5.6
 - may only be initialized using a literal or constant
   - expressions are not allowed
@@ -127,7 +123,12 @@ PHP 5.6 and later
 - the same rules apply as const expressions:
   - some limited expressions are possible
   - provided they can be evaluated at compile time
-  
+
+*Note*
+As of PHP 5.3.0:
+- possible to reference the class using a variable
+- the variable's value cannot be a keyword (e.g. *self*, *parent*, and *static)
+
 **Example #2 Static property example**
 
 ```php
