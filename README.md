@@ -1,4 +1,4 @@
-# symfony4certification
+# Symfony 4 Certification
 Notes for Symfony 4 Certification
 
 ## PHP and Web Security
