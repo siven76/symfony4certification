@@ -72,3 +72,10 @@ EOT;
 }
 ?>
 ```
+
+# Static Keyword
+- static declaration of properties or methods
+  - makes them accessible without needing an instantiation of the class
+- static property
+  - cannot be accessed with an instantiated class object
+  - a static method can
