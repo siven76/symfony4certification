@@ -12,7 +12,7 @@
 **Method**
 - [Method](https://tools.ietf.org/html/rfc2616#section-5.1.1)
 
-**Status Code
+**Status Code**
 - [Status-Line](https://tools.ietf.org/html/rfc2616#section-6.1)
 - [Status Code Definitions](https://tools.ietf.org/html/rfc2616#section-10)
 
@@ -245,7 +245,7 @@
 
 #### Form Type Extension
 
-**Form Type Extension*
+**Form Type Extension**
 - [How to Create a Form Type Extension](https://symfony.com/doc/3.4/form/create_form_type_extension.html)
 
 ### Advanced usage of the Service Definitions
